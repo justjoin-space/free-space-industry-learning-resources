@@ -50,6 +50,15 @@ A list of free resources to make space industry accessible to everyone.
 
 ## ✍️ Blogs
 
+- [Centauri Dreams](https://www.centauri-dreams.org) - Paul Gilster looks at peer-reviewed research on deep space exploration, with an eye toward interstellar possibilities. <br /><br /> 
+  Tags: ```space```, ```exploration```, ```deep space```, ```ideas```
+  
+- [INSIDE OUTER SPACE](https://www.leonarddavid.com) - Leonard David is a space journalist, reporting on space activities for over 50 years. Provides a broad range of space related articles. <br /><br /> 
+  Tags: ```space```, ```exploration```, ```commercial space```
+  
+ - [Spaceflight History](https://spaceflighthistory.blogspot.com) - Leonard David is a space journalist, reporting on space activities for over 50 years. Provides a broad range of space related articles. <br /><br /> 
+  Tags: ```space```, ```history```, ```spaceflight```
+
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
