@@ -34,7 +34,16 @@ A list of free resources to make space industry accessible to everyone.
 
 - [SpaceWatch.Global](https://spacewatch.global) - a digital magazine and portal for those interested in space and the far-reaching impact that space developments have.<br /><br /> 
   Tags: ```space```, ```entrepreneurship```, ```interviews```, ```policy & politics```
+  
+ - [Astronomy Now](https://astronomynow.com) - is a monthly British magazine/news site on astronomy and space. <br /><br /> 
+  Tags: ```space```, ```astronomy```, ```sky observation```, ```sky observation``` 
 
+ - [NPR](https://www.npr.org/sections/space/) -  coverage of space exploration, space shuttle missions, news from NASA, private space exploration, satellite technology, and new discoveries in astronomy. <br /><br /> 
+  Tags: ```space```, ```science```, ```business```, ```space race```, ```astronomy``` 
+
+- [NPR](https://phys.org/space-news/) - provides the latest news on astronomy, space exploration and other topics. <br /><br /> 
+  Tags: ```space```, ```astronomy```, ```physics```, ```chemistry```, ```biology```, ```technology```
+  
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
