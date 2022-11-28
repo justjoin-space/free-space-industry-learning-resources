@@ -1,4 +1,4 @@
-# Space learning resources
+# Space industry learning resources
 A list of free resources to make space industry accessible for everyone. It contains list of News Aggregators, News Sources, Blogs, APIs, Courses and more.
 
 ## Table of Contents
