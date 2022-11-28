@@ -1,10 +1,10 @@
 # free-space-resources
 A list of free resources to learn about space industry 🚀🌌
 
-## Aggregtors
+## ☄️ Aggregators
 - [JustJoinSpace](https://justjoin.space) - News Aggregator for Industries of the Future
 
-## News
+## 📰 News
 - [SciTechDaily](https://scitechdaily.com) - home of the science and technology news since 1998. <br /><br />
   Tags: ```space```, ```technology```, ```science```, ```physics```, ```chemistry```, ```biology```
   
@@ -26,25 +26,25 @@ A list of free resources to learn about space industry 🚀🌌
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## Blogs
+## ✍️ Blogs
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## APIs
+## 🚀 APIs
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## Courses
+## 🧑‍🚀 Courses
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## Companies
+## 🏢 Companies
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
