@@ -73,6 +73,7 @@ A list of free resources to make space industry accessible for everyone.
 - [Illustris API](https://www.illustris-project.org/data/docs/api/) -  an alternate way to access the core service and allows for high data-volume processing, search, extraction, analysis, and visualization. Used for simulation and modeling. <br />
 - [The Solar System OpenData](https://api.le-systeme-solaire.net/en/) -  returns information about the planets, moons, and main asteroids as surveyed by the Solar System OpenData project. <br />
 - [Amentum Gravity API](https://amentum.com.au/gravity) - offers a highly complex data set focused on gravitational data for the Earth. <br />
+- [Open Astronomy Catalog API](https://github.com/astrocatalogs/OACAPI) - offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs). <br />
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
