@@ -65,6 +65,15 @@ A list of free resources to make space industry accessible for everyone.
 
 ## 🚀 APIs
 
+ - [NASA Open APIs](https://api.nasa.gov/) - making NASA data, including imagery, eminently accessible to application developers. <br />
+ - [How Many People Are In Space Right Now](http://open-notify.org/Open-Notify-API/People-In-Space/) - returns the current number of people in space. When known it also returns the names and spacecraft those people are on. This API takes no inputs. <br />
+- [Planet's Data API](https://developers.planet.com/docs/apis/data/) -  a RESTful API interface to Planet’s complete imagery catalog. It enables programmatic support for searching all Planet imagery by metadata. <br />
+- [SpaceXTelemetry API](https://github.com/R4yGM/SpaceXTelemetry-Api) -  Open Source REST API for telemetry and predictions to SpaceX rocket launches. <br />
+- [Where the ISS at?](https://wheretheiss.at/w/developer) -  using this service, you can get current, past, or future position of the ISS, get timezone information about a set of coordinates, and also get TLE data on the ISS. <br />
+- [Illustris API](https://www.illustris-project.org/data/docs/api/) -  an alternate way to access the core service and allows for high data-volume processing, search, extraction, analysis, and visualization. <br />
+- [The Solar System OpenData](https://api.le-systeme-solaire.net/en/) -  returns information about the planets, moons, and main asteroids as surveyed by the Solar System OpenData project. <br />
+- [Amentum Gravity API](https://amentum.com.au/gravity) - offers a highly complex data set focused on gravitational data for the Earth. <br />
+
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
