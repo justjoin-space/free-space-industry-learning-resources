@@ -41,7 +41,7 @@ A list of free resources to make space industry accessible to everyone.
  - [NPR](https://www.npr.org/sections/space/) -  coverage of space exploration, space shuttle missions, news from NASA, private space exploration, satellite technology, and new discoveries in astronomy. <br /><br /> 
   Tags: ```space```, ```science```, ```business```, ```space race```, ```astronomy``` 
 
-- [NPR](https://phys.org/space-news/) - provides the latest news on astronomy, space exploration and other topics. <br /><br /> 
+- [Phys.org](https://phys.org/space-news/) - provides the latest news on astronomy, space exploration and other topics. <br /><br /> 
   Tags: ```space```, ```astronomy```, ```physics```, ```chemistry```, ```biology```, ```technology```
   
 <div align="right">
