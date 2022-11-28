@@ -1,8 +1,20 @@
-# free-space-resources
-A list of free resources to make space industry accessible for everyone.
+# Space learning resources
+A list of free resources to make space industry accessible for everyone. It contains list of News Aggregators, News Sources, Blogs, APIs, Courses and more.
 
-## ☄️ Aggregators
+## Table of Contents
+
+- [News Aggregators](#aggregators)  
+- [News](#news)  
+- [Blogs](#blogs)  
+- [APIs](#apis)  
+- [Courses](#courses)  
+
+<a name="aggregators"/>
+
+## ☄️ News Aggregators
 - [JustJoinSpace](https://justjoin.space) - News Aggregator for Industries of the Future
+
+<a name="news"/>
 
 ## 📰 News
 - [SciTechDaily](https://scitechdaily.com) - home of the science and technology news since 1998. <br /><br />
@@ -48,6 +60,8 @@ A list of free resources to make space industry accessible for everyone.
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
+<a name="blogs"/>
+
 ## ✍️ Blogs
 
 - [Centauri Dreams](https://www.centauri-dreams.org) - Paul Gilster looks at peer-reviewed research on deep space exploration, with an eye toward interstellar possibilities. <br /><br /> 
@@ -62,6 +76,8 @@ A list of free resources to make space industry accessible for everyone.
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
+
+<a name="apis"/>
 
 ## 🚀 APIs
 
@@ -78,6 +94,8 @@ A list of free resources to make space industry accessible for everyone.
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
 </div>
+
+<a name="courses"/>
 
 ## 🧑‍🚀 Courses
 
