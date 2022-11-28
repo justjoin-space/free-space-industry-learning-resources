@@ -14,13 +14,26 @@ A list of free resources to make space industry accessible to everyone.
 - [Space News](https://spacenews.com) - established in 1989, it's is comprehensive source of news and analysis of the companies, agencies, technologies and trends shaping the global space industry. <br /><br />
   Tags: ```space```, ```launches```, ```military```, ```policy & politics```
   
-- [Universe Today](https://universetoday.com) 
-- [Nasa Blogs](https://blogs.nasa.gov) 
-- [EarthSky](https://earthsky.org) 
-- [NASASpaceFlight](https://www.nasaspaceflight.com) 
-- [ESA/Hubble](https://esahubble.org/news/) 
-- [Space Explored](https://spaceexplored.com) 
-- [SpaceWatch.Global](https://spacewatch.global) 
+- [Universe Today](https://universetoday.com)  <br /><br />
+  Tags: ```space```, ```astronomy```, ```exploration```
+  
+- [Nasa Blogs](https://blogs.nasa.gov) <br /><br /> 
+  Tags: ```space```, ```nasa missions```, ```artemis```, ```nasa updates```
+
+- [EarthSky](https://earthsky.org) <br /><br /> 
+  Tags: ```space```, ```sky observation```, ```astronomy```
+
+- [NASASpaceFlight](https://www.nasaspaceflight.com) <br /><br /> 
+  Tags: ```space```, ```launches```, ```international```, ```commercial space```, ```artemis```
+
+- [ESA/Hubble](https://esahubble.org/news/) <br /><br /> 
+  Tags: ```space```,```hubble```, ```observation```, ```images```, ```videos```
+
+- [Space Explored](https://spaceexplored.com) <br /><br /> 
+  Tags: ```space```, ```commercial space```, ```launches```, ```science```, ```defence```
+
+- [SpaceWatch.Global](https://spacewatch.global) <br /><br /> 
+  Tags: ```space```, ```entrepreneurship```, ```interviews```, ```policy & politics```
 
 <div align="right">
   <b><a href="#">↥ Back To Top</a></b>
