@@ -14,25 +14,25 @@ A list of free resources to make space industry accessible to everyone.
 - [Space News](https://spacenews.com) - established in 1989, it's is comprehensive source of news and analysis of the companies, agencies, technologies and trends shaping the global space industry. <br /><br />
   Tags: ```space```, ```launches```, ```military```, ```policy & politics```
   
-- [Universe Today](https://universetoday.com)  <br /><br />
+- [Universe Today](https://universetoday.com) - popular North American-based non-commercial space and astronomy news website. <br /><br />
   Tags: ```space```, ```astronomy```, ```exploration```
   
-- [Nasa Blogs](https://blogs.nasa.gov) <br /><br /> 
+- [Nasa Blogs](https://blogs.nasa.gov) -  government agency that is responsible for science and technology related to air and space.<br /><br /> 
   Tags: ```space```, ```nasa missions```, ```artemis```, ```nasa updates```
 
-- [EarthSky](https://earthsky.org) <br /><br /> 
+- [EarthSky](https://earthsky.org) - updates on your cosmos and world.<br /><br /> 
   Tags: ```space```, ```sky observation```, ```astronomy```
 
-- [NASASpaceFlight](https://www.nasaspaceflight.com) <br /><br /> 
+- [NASASpaceFlight](https://www.nasaspaceflight.com) - a leading online news resource for space flight-specific news, covering all the leading space-faring nations. <br /><br /> 
   Tags: ```space```, ```launches```, ```international```, ```commercial space```, ```artemis```
 
-- [ESA/Hubble](https://esahubble.org/news/) <br /><br /> 
+- [ESA/Hubble](https://esahubble.org/news/) - the space-based observatory which has revolutionised modern astronomy.<br /><br /> 
   Tags: ```space```,```hubble```, ```observation```, ```images```, ```videos```
 
-- [Space Explored](https://spaceexplored.com) <br /><br /> 
+- [Space Explored](https://spaceexplored.com) -  shares the excitement of spaceflight and exploration by making modern advances in science and discovery more inclusive and accessible.<br /><br /> 
   Tags: ```space```, ```commercial space```, ```launches```, ```science```, ```defence```
 
-- [SpaceWatch.Global](https://spacewatch.global) <br /><br /> 
+- [SpaceWatch.Global](https://spacewatch.global) - a digital magazine and portal for those interested in space and the far-reaching impact that space developments have.<br /><br /> 
   Tags: ```space```, ```entrepreneurship```, ```interviews```, ```policy & politics```
 
 <div align="right">
