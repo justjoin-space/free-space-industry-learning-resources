@@ -44,8 +44,3 @@ A list of free resources to make space industry accessible to everyone.
   <b><a href="#">↥ Back To Top</a></b>
 </div>
 
-## 🏢 Companies
-
-<div align="right">
-  <b><a href="#">↥ Back To Top</a></b>
-</div>
