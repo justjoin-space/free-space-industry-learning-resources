@@ -1,5 +1,5 @@
 # free-space-resources
-A list of free resources to make space industry accessible to everyone.
+A list of free resources to make space industry accessible for everyone.
 
 ## ☄️ Aggregators
 - [JustJoinSpace](https://justjoin.space) - News Aggregator for Industries of the Future
